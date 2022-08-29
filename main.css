@@ -8,6 +8,7 @@ body {
 
 a {
     text-decoration: none;
+    color: white; /* Change color of URLs */
 }
 
 .nav-container {
@@ -59,7 +60,7 @@ a {
     max-width: 100%;
     margin: 0 115px 50px 115px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .calendar {
